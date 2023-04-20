@@ -1,5 +1,5 @@
 <div>
-    <h1> Hello there, my name is Guilherme!  <img width="50em" height="50em" align="top" src="https://gifdb.com/images/file/simpsons-ralph-wiggum-waving-hello-10vb9dohih2p7g8n.gif" </h1>
+    <h1> Hello there, my name is Guilherme!  <img width="60em" height="60em" align="top" src="https://gifdb.com/images/file/simpsons-ralph-wiggum-waving-hello-10vb9dohih2p7g8n.gif" </h1>
 
 </div> 
 <div>
