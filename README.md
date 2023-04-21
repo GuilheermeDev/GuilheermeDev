@@ -4,9 +4,9 @@
 </div>
     
 <div> 
-    <p> Currently, I am studying at Faculdade de Tecnologia Mogi das Cruzes. I have worked on some personal projects and have experience in .NET and C#. Recently, I decided to shift my focus to Python and Web Development, and have been studying these topics independently.
+    <p> Currently, I am studying at Faculdade de Tecnologia Mogi das Cruzes. I have worked on some personal projects and I have considerable experience in .NET and C#. Recently, I decided to focus on learning Python and working with web development, thus I have been studying these technologies.
 
-Ever since I was a child, I have been fascinated by technology, and this curiosity has led me to pursue programming </p>
+Ever since I was a child I have been fascinated by computers, and this curiosity has led me to never stop learning programming languages and related technologies” </p>
 </div>
 
 <div>
