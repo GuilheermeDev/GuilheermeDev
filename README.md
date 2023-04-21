@@ -6,7 +6,7 @@
 <div> 
     <p> Currently, I am studying at Faculdade de Tecnologia Mogi das Cruzes. I have worked on some personal projects and I have considerable experience in .NET and C#. Recently, I decided to focus on learning Python and working with web development, thus I have been studying these technologies.
 
-Ever since I was a child I have been fascinated by computers, and this curiosity has led me to never stop learning programming languages and related technologies” </p>
+Ever since I was a child I have been fascinated by computers, and this curiosity has led me to never stop learning programming languages and related technologies </p>
 </div>
 
 <div>
@@ -35,10 +35,14 @@ Ever since I was a child I have been fascinated by computers, and this curiosity
     <h1>▪️My progress so far </h1> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilheermeDev&show_icons=true&icon_color=c9d1d9&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilheermeDev&layout=compact&langs_count=7&theme=tokyonight"/>
-    </div>
+    
+   [![GitHub Streak](https://streak-stats.demolab.com?user=GuilheermeDev&theme=tokyonight&border_radius=4.4)](https://git.io/streak-stats)
+ </div>
    <div align="center">
   <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilheermeDev&bg_color=0d1117&color=c9d1d9&line=c9d1d9&point=494949&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
