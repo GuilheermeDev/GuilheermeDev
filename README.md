@@ -1,5 +1,6 @@
-<h1> <img width="100em" height="100em" align="top" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUwZGY1Y2Q3N2M2MWM3NGE4MzNmMjU3NDc1NTk2M2MwM2NhMjYwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cJ5C4oyeLrQwBK7W9Z/giphy.gif" Hello there, my name is Guilherme!  </h1>
+
 </div>
+    <h1> Hello there, my name is Guilherme! <img width="100em" height="100em" align="top"          src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUwZGY1Y2Q3N2M2MWM3NGE4MzNmMjU3NDc1NTk2M2MwM2NhMjYwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cJ5C4oyeLrQwBK7W9    Z/giphy.gif" </h1>
 <div>
     
 <div> 
