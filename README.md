@@ -14,6 +14,7 @@ Ever since I was a child, I have been fascinated by technology, and this curiosi
     <p> ▫️ Currently studying Python and Web development.</p>
     <p> ▫️ Focused on learning Python to work with data manipulation and data science. </p>
     <p> ▫️ Systems analysis and development student at Fatec Mogi das Cruzes</p>
+    
 </div>
 <div>
     <h1> ▪️ Find me 
@@ -35,3 +36,9 @@ Ever since I was a child, I have been fascinated by technology, and this curiosi
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilheermeDev&show_icons=true&icon_color=c9d1d9&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilheermeDev&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
+   <div align="center">
+  <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+</div>
