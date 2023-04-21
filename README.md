@@ -1,6 +1,6 @@
 
 </div>
-    <h1> Hello there, my name is Guilherme! <img width="100em" height="100em" align="top"          src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUwZGY1Y2Q3N2M2MWM3NGE4MzNmMjU3NDc1NTk2M2MwM2NhMjYwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cJ5C4oyeLrQwBK7W9    Z/giphy.gif" </h1>
+    <h1> Hello there, my name is Guilherme! <img width="100em" height="100em" align="top"               src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUwZGY1Y2Q3N2M2MWM3NGE4MzNmMjU3NDc1NTk2M2MwM2NhMjYwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cJ5C4oyeLrQwBK7W9    Z/giphy.gif" </h1>
 <div>
     
 <div> 
@@ -19,3 +19,4 @@ Ever since I was a child, I have been fascinated by technology, and this curiosi
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilheermeDev&show_icons=true&icon_color=c9d1d9&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilheermeDev&layout=compact&langs_count=7&theme=dark"/>
+    </div>
