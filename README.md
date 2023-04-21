@@ -14,3 +14,7 @@ Ever since I was a child, I have been fascinated by technology, and this curiosi
     <p>▫️ Focused on learning Python to work with data manipulation and data science. </p>
     <p>▫️ Systems analysis and development student at Fatec Mogi das Cruzes</p>
 </div>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilheermeDev&show_icons=true&icon_color=c9d1d9&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilheermeDev&layout=compact&langs_count=7&theme=dark"/>
