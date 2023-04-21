@@ -17,7 +17,7 @@ Ever since I was a child, I have been fascinated by technology, and this curiosi
 </div>
 <div>
     <h1> ▪️ Find me 
-        <p allign="center"> <a href="https://www.linkedin.com/in/guilherme-cardoso17/">
+        <p allign="center"> <a target="_blank" href="https://www.linkedin.com/in/guilherme-cardoso17/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  width="35px" style="margin: 15px;" />
    </a>
     <a href="mailto:guilherme.cardoso17@hotmail.com">
