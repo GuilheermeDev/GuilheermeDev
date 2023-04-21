@@ -21,7 +21,7 @@ Ever since I was a child, I have been fascinated by technology, and this curiosi
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  width="35px" style="margin: 15px;" />
    </a>
     <a href="mailto:guilherme.cardoso17@hotmail.com">
-    <img src="" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="35px" style="margin: 15px;" />
   </a>
 </p>
     </h1>
@@ -29,8 +29,9 @@ Ever since I was a child, I have been fascinated by technology, and this curiosi
 <div>
   <img width="200em" height="200em"   src="">
 </div>
-
+  
 <div align="center">
+    <h1>▪️My progress so far </h1> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilheermeDev&show_icons=true&icon_color=c9d1d9&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilheermeDev&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
