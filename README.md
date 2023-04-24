@@ -28,7 +28,7 @@ Ever since I was a child I have been fascinated by computers, and this curiosity
     </h1>
 </div>
 <div>
-  <img width="200em" height="200em"   src="">
+ 
 </div>
   
 <div align="center">
